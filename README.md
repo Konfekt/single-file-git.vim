@@ -66,10 +66,6 @@ On the command-line (after hitting `:`),
     - `g1c` to commit them and
     - `g1l` to view its log.
 
-# Related
-
-This repo turns these [instructions ](https://gist.github.com/Konfekt/70be8b2694a25cd7a7fc77e05df30774) into a ready-made solution.
-
 # Credits
 
-This repo forked [single-file-git](https://github.com/Konfekt/single-file-git.vim) which forked [David J. Iannucci's single-file-git](https://github.com/kotodharma/single-file-git) to whom all credit shall be due and all license restrictions be duly respected.
+This repo builds on [single-file-git](https://github.com/Konfekt/single-file-git) which forked [David J. Iannucci's single-file-git](https://github.com/kotodharma/single-file-git) to whom all credit shall be due and all license restrictions be duly respected.
